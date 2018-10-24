@@ -28,7 +28,7 @@
     "y": 65
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,6 +46,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "FD9FE61A-F8C0-4A20-9E6A-C5C8646EA31A"
+    }
   ],
   "name": "Artboard",
   "nameIsFixed": false,
